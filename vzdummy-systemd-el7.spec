@@ -8,7 +8,8 @@ Autoreq: 0
 BuildArch: noarch
 
 %description
-Dummy package to fix systemd initscripts configs.
+Dummy package to fix systemd initscripts configs
+for running inside Virtuozzo containers.
 
 %setup
 
